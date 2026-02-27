@@ -22,3 +22,4 @@
 # 目录
 [将南行寄长安故人](https://github.com/ZerCatMr/fuke/blob/main/%E4%B8%83%E5%BE%8B-%E5%B0%86%E5%8D%97%E8%A1%8C%E9%80%94%E4%B8%AD%E5%AF%84%E9%95%BF%E5%AE%89%E6%95%85%E4%BA%BA)
 [歌行-辞东山先生西行](https://github.com/ZerCatMr/fuke/blob/main/%E6%AD%8C%E8%A1%8C-%E8%BE%9E%E4%B8%9C%E5%B1%B1%E5%85%88%E7%94%9F%E8%A5%BF%E8%A1%8C)
+[寄故友魏璞吕译辰](https://github.com/ZerCatMr/fuke/blob/main/%E5%AF%84%E6%95%85%E5%8F%8B%E9%AD%8F%E7%92%9E%E5%90%95%E8%AF%91%E8%BE%B0)
